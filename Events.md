@@ -42,4 +42,4 @@ Key points of NCPI participation included strategic engagement plans with GA4GH 
 <h3> January 19, 2024 – Virtual Touchpoint on Interoperability </h3>
 
 On January 19, 2024, the NCPI program hosted a Virtual Touchpoint event with over 70 attendees from various NIH Institutes, the NIH Office of Data Science Strategy, and non-NIH institutions involved in NCPI Participating Partner Systems. The event aimed to discuss interoperability topics, share ideas and concerns, and build community momentum for the next NCPI Workshop.  
-[View summary (Public Version)](Workshop_Resources/NCPI_Virtual_Touchpoint_January_2024_Readout.pdf)
+[View summary (Public Version)](Virtual-Touchpoint-Jan-24.md)
