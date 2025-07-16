@@ -9,7 +9,7 @@
 
 NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. The NCPI ACC is working with NCPI leadership and the NCPI community to develop a 9-month roadmap based on the outcomes of these workshops.
 
-[Spring 2025 Workshop Summary](Spring%202025%20Workshop.md)
+[Spring 2025 Workshop Summary](Spring-2025-Workshop.md)
 
 
 <h3> Fall 2024 Workshop </h3>
@@ -18,7 +18,7 @@ NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6,
 
 The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, brought together a diverse group of researchers, developers, and stakeholders to collaborate on breaking down silos and building bridges within the biomedical research ecosystem. The workshop included discussions on data interoperability, integration challenges, and the adoption of standards. Highlights included updates from the NIH Office of Data Science Strategy, interoperability project teams' success stories, and NCPI future plans. Participants explored major challenges in interoperability, the importance of community engagement, and discussed concrete steps forward to enhance NCPI's impact.
 
-[Fall 2024 Workshop Summary](Fall%202024%20Workshop.md)
+[Fall 2024 Workshop Summary](Fall-2024-Workshop.md)
 
 
 <h3> Past Workshops </h3>
