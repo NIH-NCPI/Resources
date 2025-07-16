@@ -64,7 +64,7 @@ Helpful links to various cloud cost estimation documents are available from the 
 - NCI Cancer Research Data Commons (CRDC)
 - Kids First Data Resource Center
 
-[**See more**](Cloud%20Credit%20Estimation.md)
+[**See more**](Cloud-Credit-Estimation.md)
 
 ---
 
