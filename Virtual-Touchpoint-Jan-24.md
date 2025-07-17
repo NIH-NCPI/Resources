@@ -1,3 +1,5 @@
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Resources](README.md)/[Events](Events.md)/January 2024 Virtual Touchpoint
+
 <h1> NCPI Virtual Touchpoint - Readout </h1>
 <i> January 19, 2024 </i> 
 
