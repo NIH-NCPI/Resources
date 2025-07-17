@@ -1,7 +1,10 @@
 <img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Resources](README.md)/[Events](Events.md)/June 2024 Virtual Touchpoint
 
 <h1> NCPI Virtual Touchpoint - Readout </h1>
+
 <i> June 5, 2024 </i> 
+
+
 
 <details>
 <summary>Table of Contents</summary>
@@ -9,18 +12,22 @@
 - [Introduction](#-introduction-)
   - [Participant Summary](#-participant-summary-)
 - [Session Synopses](#-session-synopses-)
-  - [Welcome & Overview of NCPI Program](#-welcome--overview-of-ncpi-program-)
-  - [NCPI Guiding Principles: Brief Reaction](#-ncpi-guiding-principles-brief-reaction-)
-  - [Strategy-Based Discussion](#-strategy-based-discussion-)
-  - [NCPI Working Groups](#-ncpi-working-groups-)
-  - [NCPI and GA4GH](#-ncpi-and-ga4gh-)
-  - [Upcoming NCPI Workshops](#-upcoming-ncpi-workshops-)
-  - [Closeout Summary](#-closeout-summary-)
+  - [Welcome and Overview of NCPI Program](#-welcome-and-overview-of-ncpi-program-)
+  - [Introduction to Interoperability Projects](#-introduction-to-interoperability-projects-)
+    - [P01-002 AnVIL BioData Catalyst Project](#-p01-002-anvil-biodata-catalyst-project-)
+    - [P01-003 Facilitating and understanding of shared disease mechanisms](#-p01-003-facilitating-understanding-of-shared-disease-mechanisms-)
+    - [P01-004 AnVIL/Velsera-CGC Interoperability Project](#-p01-004-anvilvelsera-cgc-interoperability-project-)
+    - [P01-007 Connecting FHI, the CDA, and DRS across NIH cloud resources](#-p01-007-connecting-fhi-the-cda-and-drs-across-nih-cloud-resources-)
+    - [P01-008 Integrated data exploration of AnVIL and Kids First](#-p01-008-integrated-data-exploration-of-anvil-and-kids-first-)
+  - [Facilitated Discussions on Common Challenges and Opportunities](#-facilitated-discussions-on-common-challenges-and-opportunities-)
+  - [Upcoming NCPI Workshop](#-upcoming-ncpi-workshop-)
   - [Closing Remarks](#-closing-remarks-)
+
+
  </details>
  
 
-<h2> Intoduction </h2>
+<h2> Introduction </h2>
 
 On the afternoon of June 5, 2024, the NIH Cloud Platform Interoperability (NCPI) program hosted the second Virtual Touchpoint. This event focused on the Interoperability Projects and was attended by Interoperabiity Project award institutions and companies, as well as NIH Office of Data Science Strategy (ODSS) NCPI Program representatives and individuals representing NCPI Working Groups. The meeting was supported by the NCPI Administrative Coordinating Center (NCPI ACC). 
 
@@ -32,7 +39,7 @@ The goals of the second Virtual Touchpoint included:
 
 This summary has been prepared by the NCPI Administrative Coordinating Center (NCPI ACC) and serves as a high-level synopsis of event, capturing key discussions, challenges and ideas shared during the session. 
 
-<h3> Participant Synopsis </h3>
+<h3> Participant Summary </h3>
 
 Approximately two-thirds of the Touchpoint participants were from ICs or institutions not directly involved with NCPI program management or coordination.
 
