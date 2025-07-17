@@ -30,7 +30,7 @@ NCPI hosted a series of workshops before the establishment of the Adminsitrative
 <h3> June 5, 2024 – Virtual Touchpoint on Interoperability </h3>
 
 On June 5, 2024, the NCPI program held its second Virtual Touchpoint, focusing on Interoperability Projects and attended by award institutions, companies, NIH ODSS representatives, and NCPI Working Group members. The event aimed to continue engagement from the first Touchpoint, allow Interoperability Projects to introduce their work and goals, discuss common challenges and integration opportunities, and identify topics for the upcoming NCPI Workshop in September 2024.  
-[View summary (Public Version)](Workshop_Resources/NCPI_Virtual_Touchpoint_June_2024_Readout.pdf)
+[View summary (Public Version)](Virtual-Touchpoint-June-24.md)
 
 <h3> April 21–24, 2024 – NCPI Presence at GA4GH Connect </h3>
 
