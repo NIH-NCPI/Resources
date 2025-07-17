@@ -1,6 +1,25 @@
 <h1> NCPI Virtual Touchpoint - Readout </h1>
 <i> January 19, 2024 </i> 
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Introduction](#-introduction-)
+  - [Participant Summary](#-participant-summary-)
+- [Touchpoint Sessions](#-touchpoint-sessions-)
+  - [Welcome & Overview of NCPI Program](#-welcome--overview-of-ncpi-program-)
+  - [NCPI Guiding Principles: Brief Reaction](#-ncpi-guiding-principles-brief-reaction-)
+  - [Strategy-Based Discussion](#-strategy-based-discussion-)
+  - [NCPI Working Groups](#-ncpi-working-groups-)
+  - [NCPI and GA4GH](#-ncpi-and-ga4gh-)
+  - [Upcoming NCPI Workshops](#-upcoming-ncpi-workshops-)
+  - [Closeout Summary](#-closeout-summary-)
+  - [Closing Remarks](#-closing-remarks-)
+  
+
+</details>
+
+<h2> Introduction </h2>
 
 <br> The NIH Cloud Platform Interoperability (NCPI) program hosted a Virtual Touchpoint event with over 70 attendees from across different NIH Institutes and Centers (ICs), the NIH Office of the Director (OD) Office of Data Science Strategy (ODSS), and various non-NIH institutions that participate in the development of NCPI Participating Partner Systems. These partner systems are: NHGRI’s Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL), NHLBI’s BioData Catalyst (BDC), NCI’s Cancer Research Data Commons (CRDC), the Common Fund-supported Gabriella Miller Kids First Data Resource Center (KFDRC), and NLM-NCBI’s database of Genotypes and Phenotypes (dbGaP). 
 The goals of the event included:
@@ -13,6 +32,8 @@ This summary was prepared by the NCPI Administrative Coordinating Center (ACC)
 <h3> Participant Summary </h3>
 
 Approximately half of the Touchpoint session participants were from ICs or institutions notdirectly involved with NCPI program management or coordination. 
+
+
 
 <h2> Touchpoint Sessions </h2>
 <h3> Welcome & Overview of NCPI Program </h3>
