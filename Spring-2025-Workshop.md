@@ -8,7 +8,7 @@
 - [Introduction](#-introduction-)
 - [Workshop Overview](#-workshop-overview-)
   - [Workshop Logistics](#-workshop-logistics-)
-  - [Workshop Attendees](-#workshop-attendees-)
+  - [Workshop Attendees](#-workshop-attendees-)
 - [Workshop Outputs](#-workshop-outputs-)
 - [Session 1: Search](#-session-1-search-)
   - [Key Themes and Discussion Points](#-key-themes-and-discussion-points-)
