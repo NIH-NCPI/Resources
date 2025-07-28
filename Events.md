@@ -23,7 +23,7 @@ The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, br
 
 <h3> Past Workshops </h3>
 
-NCPI hosted a series of workshops before the establishment of the Adminsitrative Coordinating Center. More information on these events can be found [here](Past_Workshops.md). 
+NCPI hosted a series of workshops before the establishment of the Adminsitrative Coordinating Center. More information on these events can be found [here](Past-Workshops.md). 
 
 <h2> Other Events </h2>
 
