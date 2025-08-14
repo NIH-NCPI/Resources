@@ -2,15 +2,23 @@
 
 <h1> Events </h1>
 
-<h2> NCPI Workshops </h2>
+<h2> Most Reent Workshop </h2>
+
 <h3> 2025 NCPI Spring Workshop </h3>
 
 *May 1, 2025; May 6, 2025*
 
-NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. The NCPI ACC is working with NCPI leadership and the NCPI community to develop a 9-month roadmap based on the outcomes of these workshops.
+NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. The NCPI ACC worked with NCPI leadership and the NCPI community to develop a 9-month roadmap based on the outcomes of these workshops.
 
 [Spring 2025 Workshop Summary](Spring-2025-Workshop.md)
 
+<h2> Upcoming Workshop </h2>
+<h3> 2025 NCPI Fall Workshop </h3>
+
+Planning for the next NCPI workshop is underway. The event is scheduled for September 2025 and will highlight successes from the NCPI ecosystem and develop an approach to the next six months of work and ongoing sustainability. Attendance will be by invitation only, targeting key NCPI program participants and Interoperability Project representatives. Updates will be posted on this page, so please check back periodically. 
+
+
+<h2> Past Workshops </h2>
 
 <h3> Fall 2024 Workshop </h3>
 
@@ -20,8 +28,6 @@ The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, br
 
 [Fall 2024 Workshop Summary](Fall-2024-Workshop.md)
 
-
-<h3> Past Workshops </h3>
 
 NCPI hosted a series of workshops before the establishment of the Adminsitrative Coordinating Center. More information on these events can be found [here](Past-Workshops.md). 
 
