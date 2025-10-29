@@ -21,7 +21,7 @@ The Global Alliance for Genomics and Health (GA4GH) Data Repository Service (DRS
 
 The primary functionality of DRS is to map a logical ID to a means for physically retrieving the data represented by that ID. There are two styles of DRS URIs—Hostname-based and Compact Identifier-based—both using the `drs://` URI scheme. The API defines the characteristics of those IDs, the types of data supported, how they can be pointed to using URIs, and how clients can use these URIs to ultimately make successful DRS API requests.
 
-* For more information on the most recent version of this API (1.4), see the [Data Repository Service 1.4 Documentation](https://ga4gh.github.io/data-repository-service-schemas/preview/release/drs-1.4.0/docs/).
+* For more information on the most recent version of this API (1.5), see the [Data Repository Service 1.5 Documentation](https://ga4gh.github.io/data-repository-service-schemas/preview/develop/docs/).
 
 <h2> Fast Healthcare Interoperability Resources (FHIR) </h2>
 
