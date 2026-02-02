@@ -6,7 +6,8 @@
     <a href="https://github.com/NIH-NCPI/About/blob/main/README.md">About</a> |
     <a href="https://github.com/NIH-NCPI/Partners/blob/main/README.md">Partners</a> |
     <a href="https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md"> Projects</a> |
-    <a>Resources</a>
+    <a>Resources</a> |
+    <a href="https://github.com/NIH-NCPI/Events/blob/main/README.md">Events</a>
   </h2>
 </div>
 
