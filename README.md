@@ -67,11 +67,4 @@ Helpful links to various cloud cost estimation documents are available from the 
 
 [**See more**](Cloud-Credit-Estimation.md)
 
----
 
-
-<h2> Events </h2>
-
-Since 2019, NCPI has held a series of workshops. These workshops cover the accomplishments, road maps, goals, and discussions around furthering NCPI.  
-
-[**See more**](Events.md) 
